@@ -20,9 +20,5 @@ I'm interested in, and therefore do, a lot of things.
 
 ---
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/neutrino2211/langs)](https://githubtrends.io)
-
----
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,python,go,zig,mongo)](https://skillicons.dev)
 
