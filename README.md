@@ -20,5 +20,5 @@ I'm interested in, and therefore do, a lot of things.
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,python,go,zig,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,python,go,zig,mongo,rust)](https://skillicons.dev)
 
